@@ -77,6 +77,14 @@ German version available here: [Readme_DE.md](Readme_DE.md)
 - Plotly
 
 -----------------------------------
+##  How to Run
+
+1. Clone the repository  
+2. Install dependencies:
+   `pip install pandas matplotlib seaborn plotly`
+3. Open `goodreads_analysis.ipynb` in Jupyter Notebook
+
+------------------------------------
 
 ##  Future Improvements
 - Genre-based analysis
