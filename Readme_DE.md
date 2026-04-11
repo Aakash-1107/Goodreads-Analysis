@@ -75,6 +75,14 @@ Ziel dieses Projekts ist es, Datenanalysetechniken mit Python anzuwenden und die
 - Plotly
 
 ---
+##  Projekt ausführen
+
+1. Repository klonen  
+2. Benötigte Bibliotheken installieren:  
+   `pip install pandas matplotlib seaborn plotly`
+3. `goodreads_analysis.ipynb` in Jupyter Notebook öffnen
+
+---
 
 ##  Zukünftige Verbesserungen
 - Analyse nach Genres
