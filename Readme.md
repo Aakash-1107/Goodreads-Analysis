@@ -5,7 +5,7 @@ This project analyzes personal Goodreads reading data to uncover patterns in rea
 
 The goal of this project is to apply data analysis techniques using Python and visualize insights in a clear and meaningful way.
 
-🇩🇪 German version available here: [Readme_DE.md](Readme_DE.md)
+German version available here: [Readme_DE.md](Readme_DE.md)
 
 --------------------------------
 
