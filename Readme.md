@@ -1,7 +1,7 @@
 #  Goodreads Data Analysis
 
 ##  Project Overview
-This project analyzes personal Goodreads reading data to uncover patterns in reading habits, rating behavior, and author preferences over time.
+This project analyzes Goodreads reading data to uncover patterns in reading habits, rating behavior, and author preferences over time. The repository includes an anonymized sample dataset, and you can analyze your own Goodreads export by setting the `GOODREADS_CSV` environment variable (see Data).
 
 The goal of this project is to apply data analysis techniques using Python and visualize insights in a clear and meaningful way.
 
@@ -42,6 +42,7 @@ German version available here: [Readme_DE.md](Readme_DE.md)
 ----------------------------------
 
 ## Sample Visualizations
+The charts below are generated from the anonymized sample, which keeps the original counts, dates and ratings.
 
 ###  Books Read per Year
 ![Books per Year](Charts/books_per_year.png)
@@ -61,6 +62,7 @@ German version available here: [Readme_DE.md](Readme_DE.md)
 ----------------------------------
 
 ##  Key Insights
+These insights come from the anonymized sample, which keeps the original counts, dates and ratings.
 - Reading activity significantly increased in 2025
 - Reading habits vary across months, with noticeable peaks
 - Personal ratings generally align with average ratings
@@ -77,12 +79,21 @@ German version available here: [Readme_DE.md](Readme_DE.md)
 - Plotly
 
 -----------------------------------
+##  Data
+The repository includes `Data/sample_goodreads_library.csv`, an anonymized version of a personal Goodreads dataset. Book titles are replaced with placeholders ("Book 001", ...), Book Ids are renumbered, and ISBN, ISBN13, My Review and Private Notes are blank. All other columns, including dates, ratings, authors and publishers, are unchanged.
+
+To analyze your own library, export it from Goodreads (My Books → Import and export → Export Library) and point the `GOODREADS_CSV` environment variable at the downloaded CSV. If `GOODREADS_CSV` is not set, the notebook uses the sample.
+
+-----------------------------------
 ##  How to Run
 
 1. Clone the repository  
 2. Install dependencies:
-   `pip install pandas matplotlib seaborn plotly`
-3. Open `goodreads_analysis.ipynb` in Jupyter Notebook
+   `pip install -r requirements.txt`
+3. (Optional) Use your own Goodreads export:
+   - PowerShell: `$env:GOODREADS_CSV = "C:\path	o\goodreads_library_export.csv"`
+   - macOS/Linux: `export GOODREADS_CSV=/path/to/goodreads_library_export.csv`
+4. Start Jupyter with `python -m notebook`, then open `Goodreads_analysis.ipynb`
 
 ------------------------------------
 

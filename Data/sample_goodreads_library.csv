@@ -1,0 +1,342 @@
+Book Id,Title,Author,Author l-f,Additional Authors,ISBN,ISBN13,My Rating,Average Rating,Publisher,Binding,Number of Pages,Year Published,Original Publication Year,Date Read,Date Added,Bookshelves,Bookshelves with positions,Exclusive Shelf,My Review,Spoiler,Private Notes,Read Count,Owned Copies
+1,Book 001,Sarah J. Maas,"Maas, Sarah J.","Heinrich Koop, Franca Fritz",,,0,4.45,dtv,Paperback,843.0,2023.0,2021.0,,2026/03/20,currently-reading,currently-reading (#3),currently-reading,,,,1,0
+2,Book 002,Sarah J. Maas,"Maas, Sarah J.",Anne Brauner,,,3,3.71,dtv Verlagsgesellschaft,Paperback,345.0,2021.0,2018.0,2026/03/17,2026/03/16,,,read,,,,1,0
+3,Book 003,Sarah J. Maas,"Maas, Sarah J.",,,,5,4.46,dtv,Paperback,748.0,2020.0,2017.0,2026/03/16,2026/03/12,,,read,,,,1,0
+4,Book 004,Olivie Blake,"Blake, Olivie",,,,2,2.84,FISCHER E-Books,Kindle Edition,650.0,2024.0,2024.0,2025/08/05,2025/05/11,did-not-finish,did-not-finish (#6),did-not-finish,,,,1,0
+5,Book 005,Laurie Forest,"Forest, Laurie",Freya Rall,,,2,4.1,foliant Verlag,Hardcover,600.0,2024.0,2017.0,,2025/08/07,did-not-finish,did-not-finish (#5),did-not-finish,,,,0,0
+6,Book 006,Sebastian Fitzek,"Fitzek, Sebastian",,,,0,3.89,Bastei Lübbe,Hardcover,559.0,2013.0,2013.0,,2025/08/17,did-not-finish,did-not-finish (#4),did-not-finish,,,,0,0
+7,Book 007,R.F. Kuang,"Kuang, R.F.","Heide Franck, Alexandra Jordan",,,0,4.14,Eichborn,Hardcover,732.0,2023.0,2022.0,,2025/08/25,did-not-finish,did-not-finish (#3),did-not-finish,,,,0,0
+8,Book 008,Chimamanda Ngozi Adichie,"Adichie, Chimamanda Ngozi","Jan Schönherr, Asal Dardan",,,2,3.78,FISCHER E-Books,Kindle Edition,523.0,2025.0,2025.0,,2025/09/29,did-not-finish,did-not-finish (#2),did-not-finish,,,,0,0
+9,Book 009,Mona Awad,"Awad, Mona",Elena Helfrecht,,,0,3.45,Festa Verlag,Hardcover,464.0,2023.0,2019.0,,2026/02/03,did-not-finish,did-not-finish (#1),did-not-finish,,,,0,0
+10,Book 010,Sarah J. Maas,"Maas, Sarah J.",Alexandra Ernst,,,5,4.63,dtv Verlag,Hardcover,711.0,2017.0,2016.0,2026/03/12,2026/03/08,,,read,,,,1,0
+11,Book 011,Felix Lobrecht,"Lobrecht, Felix",,,,4,3.59,Ullstein,Hardcover,221.0,2017.0,2017.0,2026/03/07,2026/03/07,,,read,,,,1,0
+12,Book 012,Sarah J. Maas,"Maas, Sarah J.",Alexandra Ernst,,,3,4.15,dtv Verlag,Hardcover,480.0,2017.0,2015.0,2026/03/06,2026/03/04,,,read,,,,1,0
+13,Book 013,Matt Dinniman,"Dinniman, Matt",,,,4,4.43,Dandy House,Kindle Edition,534.0,2021.0,2021.0,2026/03/03,2026/02/23,,,read,,,,1,0
+14,Book 014,Christy Lefteri,"Lefteri, Christy",,,,5,4.16,Zaffre,Kindle Edition,337.0,2019.0,2019.0,2026/02/22,2026/02/20,,,read,,,,1,0
+15,Book 015,Matt Dinniman,"Dinniman, Matt",,,,4,4.51,Dandy House,Kindle Edition,364.0,2021.0,2021.0,2026/02/18,2026/02/14,,,read,,,,1,0
+16,Book 016,Mareike Fallwickl,"Fallwickl, Mareike",,,,0,4.29,Rowohlt E-Book,Kindle Edition,356.0,2024.0,2024.0,,2026/02/14,to-read,to-read (#46),to-read,,,,0,0
+17,Book 017,Mareike Fallwickl,"Fallwickl, Mareike",,,,5,4.27,Rowohlt Verlag GmbH,Hardcover,384.0,2022.0,2022.0,2026/02/14,2026/02/12,,,read,,,,1,0
+18,Book 018,Friederike Oertel,"Oertel, Friederike",,,,0,4.25,KiWi-Paperback,Paperback,334.0,2025.0,,,2026/02/13,currently-reading,currently-reading (#2),currently-reading,,,,1,0
+19,Book 019,Matt Dinniman,"Dinniman, Matt",,,,4,4.48,Ace,Hardcover,450.0,2024.0,2020.0,2026/02/15,2026/02/08,,,read,,,,1,0
+20,Book 020,Simon Beckett,"Beckett, Simon",Andree Hesse,,,4,4.03,Rowohlt,Hardcover,448.0,2011.0,2010.0,2026/02/08,2026/02/07,,,read,,,,1,0
+21,Book 021,James Islington,"Islington, James",,,,4,4.35,Adrian & Wimmelbuchverlag,Hardcover,848.0,2025.0,2025.0,2026/02/06,2026/01/26,,,read,,,,1,0
+22,Book 022,Rosie Hewlett,"Hewlett, Rosie",Simone Jakob,,,0,4.04,HarperCollins,Hardcover,560.0,2025.0,2024.0,,2026/01/27,to-read,to-read (#45),to-read,,,,0,0
+23,Book 023,Neal Shusterman,"Shusterman, Neal",,,,2,3.62,Walker Books Ltd.,Paperback,448.0,2025.0,2025.0,2026/01/26,2026/01/19,,,read,,,,1,0
+24,Book 024,John Boyne,"Boyne, John",Brigitte Jakobeit,,,4,4.16,Fischer,Paperback,289.0,2010.0,2006.0,2026/01/19,2026/01/19,,,read,,,,1,0
+25,Book 025,James Islington,"Islington, James",,,,5,4.59,Adrian & Wimmelbuchverlag,Hardcover,779.0,2025.0,2023.0,2026/01/19,2026/01/11,,,read,,,,1,0
+26,Book 026,Mia Ballard,"Ballard, Mia",,,,0,3.51,Run For It,Kindle Edition,281.0,2026.0,2025.0,,2026/01/13,to-read,to-read (#44),to-read,,,,0,0
+27,Book 027,Jacqueline Harpman,"Harpman, Jacqueline","Sophie Mackintosh, Ros Schwartz",,,4,4.08,Vintage,Paperback,188.0,2019.0,1995.0,2026/01/11,2026/01/06,,,read,,,,1,0
+28,Book 028,Ariel Lawhon,"Lawhon, Ariel",,,,5,4.38,Adrian & Wimmelbuchverlag,Kindle Edition,560.0,2024.0,2023.0,2026/01/10,2025/07/16,,,read,,,,1,0
+29,Book 029,Sophia Fritz,"Fritz, Sophia",,,,0,4.27,Hanser Berlin,Kindle Edition,193.0,2024.0,2024.0,,2025/12/29,to-read,to-read (#43),to-read,,,,0,0
+30,Book 030,Cat Bohannon,"Bohannon, Cat",,,,5,4.25,C.Bertelsmann Verlag,Hardcover,768.0,2024.0,2023.0,2025/12/29,2025/10/24,,,read,,,,1,0
+31,Book 031,V.E. Schwab,"Schwab, V.E.",Victoria Schwab,,,0,3.93,Tor,Hardcover,535.0,2025.0,2025.0,,2025/12/29,to-read,to-read (#42),to-read,,,,0,0
+32,Book 032,Caroline Peckham,"Peckham, Caroline","Susanne Valenti, Tatjana Becijos",,,0,4.18,King's Hollow,Kindle Edition,1184.0,2025.0,2021.0,,2025/12/29,currently-reading,currently-reading (#1),currently-reading,,,,1,0
+33,Book 033,Caroline Peckham,"Peckham, Caroline","Susanne Valenti, Tatjana Becijos, Literary Queens",,,4,4.31,King's Hollow,Kindle Edition,1010.0,2024.0,2020.0,2025/12/28,2025/12/21,,,read,,,,1,0
+34,Book 034,Sayaka Murata,"Murata, Sayaka",Ursula Gräfe,,,0,3.25,Aufbau Digital,Kindle Edition,273.0,2025.0,2015.0,,2025/12/23,to-read,to-read (#41),to-read,,,,0,0
+35,Book 035,John Ironmonger,"Ironmonger, John",,,,5,4.09,Fischer,Kindle Edition,132.0,2021.0,,2025/12/20,2025/12/19,,,read,,,,1,0
+36,Book 036,V.E. Schwab,"Schwab, V.E.","Sara Riffel, Petra Huber",,,4,3.7,FISCHER Tor,Hardcover,350.0,2023.0,2022.0,2025/12/19,2025/12/18,,,read,,,,1,0
+37,Book 037,Isabel Ibañez,"Ibañez, Isabel",,,,0,3.83,Wednesday Books,Hardcover,404.0,2023.0,2023.0,,2025/12/18,to-read,to-read (#40),to-read,,,,0,0
+38,Book 038,Shelby Van Pelt,"Pelt, Shelby Van",,,,3,4.36,Fischer ,Hardcover,464.0,2022.0,2022.0,2025/12/17,2025/12/15,,,read,,,,1,0
+39,Book 039,Lucinda Berry,"Berry, Lucinda",,,,3,3.96,Thomas & Mercer,Kindle Edition,285.0,2020.0,2020.0,2025/12/14,2025/12/14,,,read,,,,1,0
+40,Book 040,V.E. Schwab,"Schwab, V.E.","Petra Huber, Sara Riffel",,,5,4.16,Fischer TOR,Paperback,592.0,2023.0,2020.0,2025/12/13,2025/12/09,,,read,,,,1,0
+41,Book 041,Monika Kim,"Kim, Monika",,,,5,3.79,Erewhon Books,Hardcover,278.0,2024.0,2024.0,2025/12/09,2025/12/08,,,read,,,,1,0
+42,Book 042,Eva-Maria Schnurr,"Schnurr, Eva-Maria",,,,0,3.69,Penguin Verlag,Kindle Edition,305.0,2022.0,,,2025/12/08,to-read,to-read (#39),to-read,,,,0,0
+43,Book 043,John Green,"Green, John",Sophie Zeitz,,,5,4.34,Carl Hanser Verlag GmbH & Co. KG,Kindle Edition,225.0,2025.0,2025.0,2025/12/05,2025/12/04,,,read,,,,1,0
+44,Book 044,Victoria May,"May, Victoria",,,,4,3.75,,Kindle Edition,107.0,2025.0,,2025/12/04,2025/12/03,,,read,,,,1,0
+45,Book 045,Robin Wall Kimmerer,"Kimmerer, Robin Wall",,,,5,4.5,Aufbau Digital,Kindle Edition,449.0,2021.0,2013.0,2025/12/03,2025/07/19,,,read,,,,1,0
+46,Book 046,J.S. Wonda,"Wonda, J.S.",,,,2,3.81,Federherz Verlga,ebook,294.0,2021.0,,2025/12/02,2025/11/30,,,read,,,,1,0
+47,Book 047,Caroline Peckham,"Peckham, Caroline",Susanne Valenti,,,3,3.77,Independently Published,Kindle Edition,98.0,2020.0,2020.0,2025/11/29,2025/11/29,,,read,,,,1,0
+48,Book 048,Rebekka Endler,"Endler, Rebekka",,,,3,4.29,Rowohlt E-Book,Kindle Edition,363.0,2025.0,2025.0,2025/11/28,2025/06/13,,,read,,,,1,0
+49,Book 049,Caroline Peckham,"Peckham, Caroline",Susanne Valenti,,,2,4.09,,ebook,201.0,2022.0,2022.0,2025/11/23,2025/08/03,,,read,,,,1,0
+50,Book 050,Paul Murray,"Murray, Paul",,,,3,3.88,Verlag Antje Kunstmann,Kindle Edition,700.0,2024.0,2023.0,2025/11/22,2025/02/22,,,read,,,,1,0
+51,Book 051,Holly  Jackson,"Jackson, Holly",Rainer Schumacher,,,3,4.01,Lübbe,Hardcover,480.0,2025.0,2025.0,2025/11/12,2025/11/11,,,read,,,,1,0
+52,Book 052,Zoe Venditozzi,"Venditozzi, Zoe",Claire   Mitchell,,,0,3.86,Sourcebooks,Hardcover,320.0,2025.0,2025.0,,2025/11/12,to-read,to-read (#38),to-read,,,,0,0
+53,Book 053,Sophie Gilbert,"Gilbert, Sophie",,,,0,3.89,Penguin Press,Hardcover,352.0,2025.0,2025.0,,2025/11/12,to-read,to-read (#37),to-read,,,,0,0
+54,Book 054,Grady Hendrix,"Hendrix, Grady",,,,0,3.9,Berkley,Hardcover,482.0,2025.0,2025.0,,2025/11/12,to-read,to-read (#36),to-read,,,,0,0
+55,Book 055,Gaea Schoeters,"Schoeters, Gaea",Lisa Mensing,,,1,4.13,Paul Zsolnay Verlag,Kindle Edition,257.0,2024.0,2020.0,2025/11/10,2025/11/09,,,read,,,,1,0
+56,Book 056,Khaled Hosseini,"Hosseini, Khaled",,,,4,4.36,FISCHER Taschenbuch,Paperback,376.0,2019.0,2003.0,2025/11/09,2025/11/02,,,read,,,,1,0
+57,Book 057,Soyoung Park,"Park, Soyoung",Joungmin Lee Comfort,,,0,3.67,Penguin,Kindle Edition,438.0,2025.0,2021.0,,2025/11/02,to-read,to-read (#35),to-read,,,,0,0
+58,Book 058,Soyoung Park,"Park, Soyoung",Bettina Ain,,,4,3.55,Piper,Paperback,400.0,2025.0,2020.0,2025/11/02,2025/10/30,,,read,,,,1,0
+59,Book 059,Sally Rooney,"Rooney, Sally",,,,3,3.81,Crown,Hardcover,273.0,2019.0,2018.0,2025/10/30,2025/10/27,,,read,,,,1,0
+60,Book 060,Andy Weir,"Weir, Andy",Jürgen Langowski,,,5,4.51,Heyne,Paperback,560.0,2021.0,2021.0,2025/10/27,2025/10/23,,,read,,,,1,0
+61,Book 061,Tore Renberg,"Renberg, Tore","Ina Kronenberger, Karoline Hippe",,,4,3.79,Luchterhand Literaturverlag,Kindle Edition,739.0,2024.0,2023.0,2025/10/22,2025/01/15,,,read,,,,1,0
+62,Book 062,Matt Haig,"Haig, Matt",Sabine Hübner,,,4,3.98,Droemer HC,Hardcover,320.0,2021.0,2020.0,2025/10/15,2025/10/09,,,read,,,,1,0
+63,Book 063,Sebastian Fitzek,"Fitzek, Sebastian",,,,3,3.61,Knaur TB,Paperback,416.0,2017.0,2017.0,2025/10/08,2025/10/07,,,read,,,,1,0
+64,Book 064,Steve Brusatte,"Brusatte, Steve",Nikolaus de Palézieux,,,5,4.21,Piper ebooks,Kindle Edition,414.0,2018.0,2018.0,2025/10/06,2025/09/23,,,read,,,,1,0
+65,Book 065,Caroline Peckham,"Peckham, Caroline","Susanne Valenti, Tatjana Becijos, Literary Queens",,,4,4.31,King's Hollow,Kindle Edition,1041.0,2024.0,2020.0,2025/09/28,2025/08/29,,,read,,,,1,0
+66,Book 066,Tahsim Durgun,"Durgun, Tahsim",,,,3,4.48,Knaur,Paperback,208.0,2025.0,2025.0,2025/09/24,2025/09/23,,,read,,,,1,0
+67,Book 067,Edward Ashton,"Ashton, Edward",Felix Mayer,,,4,3.98,Heyne Verlag,Kindle Edition,385.0,2024.0,2023.0,2025/09/09,2025/09/07,,,read,,,,1,0
+68,Book 068,Liz    Moore,"Moore, Liz",,,,4,4.1,C.H.Beck,Kindle Edition,589.0,2025.0,2024.0,2025/09/07,2025/04/28,,,read,,,,1,0
+69,Book 069,Matt Wixey,"Wixey, Matt",,,,0,4.15,Titan Books,Kindle Edition,556.0,2025.0,2025.0,,2025/09/05,to-read,to-read (#34),to-read,,,,0,0
+70,Book 070,George R. Stewart,"Stewart, George R.",Ernst Sander,,,4,3.94,Heyne Verlag,Kindle Edition,513.0,2025.0,1949.0,2025/09/04,2025/05/26,,,read,,,,1,0
+71,Book 071,Phillip P. Peterson,"Peterson, Phillip P.",,,,4,3.52,FISCHER E-Books,Kindle Edition,416.0,2024.0,2024.0,2025/08/27,2025/08/26,,,read,,,,1,0
+72,Book 072,Taylor Jenkins Reid,"Reid, Taylor Jenkins",,,,5,4.39,Ullstein,Paperback,462.0,2022.0,2017.0,2025/08/22,2025/08/20,,,read,,,,1,0
+73,Book 073,Neal Shusterman,"Shusterman, Neal",,,,5,3.97,Fischer Sauerländer,Kindle Edition,529.0,2023.0,2022.0,2025/08/21,2025/08/13,,,read,,,,1,0
+74,Book 074,Evie  Woods,"Woods, Evie",Ivonne Senn,,,4,3.98,Adrian & Wimmelbuchverlag,Paperback,464.0,2024.0,2023.0,2025/08/20,2025/08/17,,,read,,,,1,0
+75,Book 075,Emilia Hart,"Hart, Emilia",Julia Walther,,,4,4.05,HarperCollins eBook,Kindle Edition,417.0,2023.0,2023.0,2025/08/17,2025/08/13,,,read,,,,1,0
+76,Book 076,R.F. Kuang,"Kuang, R.F.",Jasmin Humburg,,,4,3.72,Eichborn,Hardcover,384.0,2024.0,2023.0,2025/08/13,2025/08/11,,,read,,,,1,0
+77,Book 077,Uketsu,"Uketsu, Uketsu",Heike Patzschke,,,3,3.93,Lübbe,Kindle Edition,273.0,2025.0,2022.0,2025/08/11,2025/05/30,,,read,,,,1,0
+78,Book 078,Agustina Bazterrica,"Bazterrica, Agustina",,,,4,3.77,suhrkamp taschenbuch 5023,Paperback,237.0,2020.0,2017.0,2025/08/10,2025/08/09,,,read,,,,1,0
+79,Book 079,Kate Elizabeth Russell,"Russell, Kate Elizabeth",Ulrike Thiesmeyer,,,4,4.1,C. Bertelsmann Verlag,Kindle Edition,449.0,2020.0,2020.0,2025/08/09,2025/08/07,,,read,,,,1,0
+80,Book 080,Sebastian Fitzek,"Fitzek, Sebastian",,,,4,3.93,Droemer eBook,Kindle Edition,401.0,2024.0,2024.0,2025/08/06,2025/03/26,,,read,,,,1,0
+81,Book 081,Taylor Jenkins Reid,"Reid, Taylor Jenkins",,,,0,4.33,Ballantine Books,Hardcover,337.0,2025.0,2025.0,,2025/08/04,to-read,to-read (#33),to-read,,,,0,0
+82,Book 082,Hanya Yanagihara,"Yanagihara, Hanya",Stephan Kleiner,,,5,4.27,Hanser Berlin,Kindle Edition,960.0,2017.0,2015.0,2025/08/02,2025/07/28,,,read,,,,1,0
+83,Book 083,Gillian Anderson,"Anderson, Gillian",Harriet Fricke,,,0,3.37,dtv,Kindle Edition,360.0,2024.0,2024.0,2025/07/31,2025/07/23,,,read,,,,1,0
+84,Book 084,Ottessa Moshfegh,"Moshfegh, Ottessa",,,,0,3.6,Penguin Books,Paperback,289.0,2019.0,2018.0,,2025/07/30,to-read,to-read (#32),to-read,,,,0,0
+85,Book 085,George Orwell,"Orwell, George",,,,5,4.02,Biblos,Kindle Edition,140.0,2020.0,1945.0,2025/07/27,2025/07/27,,,read,,,,1,0
+86,Book 086,Edward Ashton,"Ashton, Edward",Felix Mayer,,,4,3.78,Heyne Verlag,Kindle Edition,369.0,2022.0,2022.0,2025/07/26,2025/07/25,,,read,,,,1,0
+87,Book 087,Tahereh Mafi,"Mafi, Tahereh",Mara Henke,,,3,3.84,cbt,Paperback,336.0,2023.0,2011.0,2025/07/24,2025/04/18,,,read,,,,1,0
+88,Book 088,Neal Shusterman,"Shusterman, Neal",,,,5,4.15,FISCHER Sauerländer Verlag,Hardcover,608.0,2019.0,2019.0,2025/07/23,2025/07/20,,,read,,,,1,0
+89,Book 089,Haruki Murakami,"Murakami, Haruki",Ursula Gräfe,,,0,3.75,Dumont,Kindle Edition,641.0,2024.0,2023.0,,2025/07/21,to-read,to-read (#31),to-read,,,,0,0
+90,Book 090,Neal Shusterman,"Shusterman, Neal",,,,5,4.38,FISCHER Sauerländer,Hardcover,544.0,2018.0,2018.0,2025/07/19,2025/07/16,,,read,,,,1,0
+91,Book 091,Mareike Fallwickl,"Fallwickl, Mareike",,,,0,4.5,Kjona Verlag,Kindle Edition,46.0,2025.0,2025.0,,2025/07/17,to-read,to-read (#30),to-read,,,,0,0
+92,Book 092,Caroline Peckham,"Peckham, Caroline",Susanne Valenti,,,4,4.03,King's Hollow,Kindle Edition,534.0,2021.0,2021.0,2025/07/16,2025/07/10,,,read,,,,1,0
+93,Book 093,Liane Moriarty,"Moriarty, Liane",Alice Jakubeit,,,0,3.98,Droemer eBook,Kindle Edition,513.0,2025.0,2024.0,,2025/07/16,to-read,to-read (#29),to-read,,,,0,0
+94,Book 094,Neal Shusterman,"Shusterman, Neal",Kristian Lutze,,,5,4.32,Sauerländer,Klappenbroschur,528.0,2019.0,2016.0,2025/07/14,2025/07/10,,,read,,,,1,0
+95,Book 095,Caroline Peckham,"Peckham, Caroline",Susanne Valenti,,,3,3.73,Independently Published,Kindle Edition,94.0,2019.0,2019.0,2025/07/07,2025/07/08,,,read,,,,1,0
+96,Book 096,Caroline Peckham,"Peckham, Caroline","Susanne Valenti, Literary Queens, Tatjana Becijos",,,4,4.27,King's Hollow,Kindle Edition,866.0,2024.0,2020.0,2025/07/07,2025/06/27,,,read,,,,1,0
+97,Book 097,Leonie Schöler,"Schöler, Leonie",,,,5,4.59,Penguin Verlag,Kindle Edition,415.0,2024.0,2024.0,2025/07/04,2025/06/27,,,read,,,,1,0
+98,Book 098,Christina Dalcher,"Dalcher, Christina",,,,4,3.55,Berkley,Hardcover,336.0,2018.0,2018.0,2025/07/02,2025/06/24,,,read,,,,1,0
+99,Book 099,Caroline Peckham,"Peckham, Caroline",Susanne Valenti,,,2,4.26,,ebook,680.0,2021.0,2021.0,2025/06/26,2025/06/17,,,read,,,,1,0
+100,Book 100,Patrick C. Harrison III,"III, Patrick C. Harrison",,,,3,3.0,,Kindle Edition,96.0,2022.0,2022.0,2025/06/23,2025/06/23,,,read,,,,1,0
+101,Book 101,Agustina Bazterrica,"Bazterrica, Agustina",Sarah Moses,,,0,3.6,Scribner,Paperback,192.0,2025.0,2023.0,,2025/06/22,to-read,to-read (#28),to-read,,,,0,0
+102,Book 102,Khaled Hosseini,"Hosseini, Khaled",Michael Windgassen,,,5,4.46,Berliner Taschenbuch-Verlag,Paperback,381.0,2009.0,2007.0,2025/06/22,2025/06/20,,,read,,,,1,0
+103,Book 103,Hanya Yanagihara,"Yanagihara, Hanya",Stephan Kleiner,,,0,3.73,Hanser Berlin,Kindle Edition,481.0,2019.0,2013.0,,2025/06/22,to-read,to-read (#27),to-read,,,,0,0
+104,Book 104,Marcus Kliewer,"Kliewer, Marcus",Tobias Schnettler,,,0,3.6,Goldmann Verlag,Kindle Edition,401.0,2025.0,2024.0,,2025/06/20,to-read,to-read (#26),to-read,,,,0,0
+105,Book 105,Arundhati Roy,"Roy, Arundhati",Anette Grube,,,4,3.96,Goldmann ,Paperback,380.0,1999.0,1997.0,2025/06/19,2025/06/12,,,read,,,,1,0
+106,Book 106,Adrienne Young,"Young, Adrienne",,,,0,3.67,Delacorte Press,Hardcover,288.0,2025.0,2025.0,,2025/06/18,to-read,to-read (#25),to-read,,,,0,0
+107,Book 107,Caroline Peckham,"Peckham, Caroline",Susanne Valenti,,,3,4.26,King's Hollow,Kindle Edition,664.0,2021.0,2020.0,2025/06/16,2025/06/13,,,read,,,,1,0
+108,Book 108,Lionel Shriver,"Shriver, Lionel",Christine Frick-Gerke,,,0,4.08,List,Hardcover,560.0,2006.0,2003.0,,2025/06/13,to-read,to-read (#24),to-read,,,,0,0
+109,Book 109,John Marrs,"Marrs, John",,,,0,4.09,,Unknown Binding,,,2016.0,,2025/06/13,to-read,to-read (#23),to-read,,,,0,0
+110,Book 110,Caroline Peckham,"Peckham, Caroline",Susanne Valenti,,,4,4.2,King's Hollow,Kindle Edition,678.0,2021.0,2020.0,2025/06/12,2025/06/09,,,read,,,,1,0
+111,Book 111,Holly Black,"Black, Holly",,,,5,4.13,"Little, Brown Books for Young Readers",ebook,200.0,2020.0,2020.0,2025/06/09,2025/06/09,,,read,,,,1,0
+112,Book 112,Caroline Peckham,"Peckham, Caroline",Susanne Valenti,,,4,4.11,King's Hollow,Kindle Edition,542.0,2021.0,2019.0,2025/06/08,2025/06/03,,,read,,,,1,0
+113,Book 113,Michiko Aoyama,"Aoyama, Michiko",,,,3,4.03,Kindler,Kindle Edition,278.0,2023.0,2020.0,2025/06/04,2025/05/30,,,read,,,,1,0
+114,Book 114,Caroline Peckham,"Peckham, Caroline",Susanne Valenti,,,2,4.04,Independently Published,Paperback,536.0,2021.0,2019.0,2025/06/02,2025/05/29,,,read,,,,1,0
+115,Book 115,Freida McFadden,"McFadden, Freida",,,,2,3.96,Poisoned Pen Press,Hardcover,320.0,2025.0,2023.0,2025/05/30,2025/05/24,,,read,,,,1,0
+116,Book 116,Caroline Peckham,"Peckham, Caroline",Susanne Valenti,,,5,4.33,King's Hollow,Kindle Edition,733.0,2024.0,2019.0,2025/05/28,2025/05/23,,,read,,,,1,0
+117,Book 117,Kia Abdullah,"Abdullah, Kia",,,,0,4.01,HQ,Hardcover,384.0,2021.0,2021.0,,2025/05/26,to-read,to-read (#22),to-read,,,,0,0
+118,Book 118,Jasmin Schreiber,"Schreiber, Jasmin",,,,0,3.75,Eichborn,Kindle Edition,337.0,2023.0,2023.0,,2025/05/26,to-read,to-read (#21),to-read,,,,0,0
+119,Book 119,Dan Simmons,"Simmons, Dan",,,,0,4.09,"Little, Brown and Company",Hardcover,835.0,2007.0,2007.0,,2025/05/26,to-read,to-read (#20),to-read,,,,0,0
+120,Book 120,Mac P. Lorne,"Lorne, Mac P.",,,,0,3.9,Knaur,Kindle Edition,656.0,2016.0,2016.0,,2025/05/26,to-read,to-read (#19),to-read,,,,0,0
+121,Book 121,Rebecca Yarros,"Yarros, Rebecca",,,,5,4.21,Red Tower Books,Hardcover,544.0,2025.0,2025.0,2025/05/23,2025/03/26,,,read,,,,1,0
+122,Book 122,Bram Stoker,"Stoker, Bram","Rubén Toledo, Nina Auerbach, David J. Skal",,,0,4.02,Norton,Paperback,488.0,1986.0,1897.0,,2025/05/18,,,read,,,,1,0
+123,Book 123,Kelsie Sheridan Gonzalez,"Gonzalez, Kelsie Sheridan",,,,0,3.3,Alcove Press,Paperback,320.0,2025.0,2025.0,,2025/05/18,to-read,to-read (#18),to-read,,,,0,0
+124,Book 124,Dana Schwartz,"Schwartz, Dana",Cornelia Röser,,,3,3.84,Loewe,Paperback,384.0,2022.0,2022.0,2025/05/13,2025/05/11,,,read,,,,1,0
+125,Book 125,Olivie Blake,"Blake, Olivie",,,,4,3.49,Tor Books,Kindle Edition,560.0,2022.0,2022.0,2025/05/11,2025/04/17,,,read,,,,1,0
+126,Book 126,Holly Black,"Black, Holly",Anne Brauner,,,0,3.87,cbj,Kindle Edition,464.0,2024.0,2024.0,,2025/05/08,to-read,to-read (#17),to-read,,,,0,0
+127,Book 127,Holly Black,"Black, Holly",Anne Brauner,,,0,3.92,cbj,Kindle Edition,433.0,2023.0,2023.0,,2025/05/08,to-read,to-read (#16),to-read,,,,0,0
+128,Book 128,J.S. Wonda,"Wonda, J.S.",,,,2,3.78,Federherz Verlag ,ebook,280.0,2021.0,,2025/05/08,2025/05/07,,,read,,,,1,0
+129,Book 129,Lara Große,"Große, Lara",,,,0,3.94,LEAF,Kindle Edition,565.0,2025.0,2025.0,,2025/05/05,to-read,to-read (#15),to-read,,,,0,0
+130,Book 130,Naomi Alderman,"Alderman, Naomi",,,,4,3.75,Viking,Hardcover,341.0,2017.0,2016.0,,2025/05/05,,,read,,,,1,0
+131,Book 131,Kristen Ciccarelli,"Ciccarelli, Kristen",,,,0,4.17,Wednesday Books,Hardcover,406.0,2024.0,2024.0,,2025/05/05,to-read,to-read (#14),to-read,,,,0,0
+132,Book 132,Caroline Peckham,"Peckham, Caroline","Susanne Valenti, Tatjana Becijos",,,5,4.2,King's Hollow,Kindle Edition,622.0,2024.0,2019.0,2025/05/04,2025/05/02,,,read,,,,1,0
+133,Book 133,Raven Kennedy,"Kennedy, Raven",Vanessa Lamatsch,,,0,3.61,KYSS,Paperback,400.0,2023.0,2020.0,,2025/05/02,to-read,to-read (#13),to-read,,,,0,0
+134,Book 134,Holly Black,"Black, Holly",,,,5,4.33,"Little, Brown",ebook,321.0,2019.0,2019.0,2025/05/02,2025/05/01,,,read,,,,1,0
+135,Book 135,Stephanie Garber,"Garber, Stephanie",,,,0,4.06,Flatiron Books,Hardcover,408.0,2021.0,2021.0,,2025/05/01,to-read,to-read (#12),to-read,,,,0,0
+136,Book 136,Holly Black,"Black, Holly",,,,4,4.27,"Little, Brown Books for Young Readers",ebook,336.0,2019.0,2019.0,2025/05/01,2025/04/29,,,read,,,,1,0
+137,Book 137,Caroline Peckham,"Peckham, Caroline","Susanne Valenti, Tatjana Becijos",,,5,3.82,King's Hollow,Kindle Edition,493.0,2024.0,2019.0,2025/04/28,2025/04/26,,,read,,,,1,0
+138,Book 138,Jasmine Mas,"Mas, Jasmine",,,,0,3.92,HarperVoyager,Paperback,496.0,2024.0,2024.0,,2025/04/28,to-read,to-read (#11),to-read,,,,0,0
+139,Book 139,Holly Black,"Black, Holly",,,,4,4.0,"Little, Brown Books for Young Readers",Hardcover,370.0,2018.0,2018.0,2025/04/27,2025/04/26,,,read,,,,1,0
+140,Book 140,J.S. Wonda,"Wonda, J.S.",,,,3,3.75,,Kindle Edition,293.0,2021.0,,2025/04/25,2025/04/24,,,read,,,,1,0
+141,Book 141,J.S. Wonda,"Wonda, J.S.",,,,4,3.49,,Kindle Edition,495.0,2021.0,,2025/04/22,2025/04/21,,,read,,,,1,0
+142,Book 142,Meagan Kaye,"Kaye, Meagan",,,,0,4.27,Bound in Ink,Kindle Edition,319.0,2025.0,,,2025/04/21,to-read,to-read (#10),to-read,,,,0,0
+143,Book 143,Meagan Kaye,"Kaye, Meagan",Rooted in Writing,,,4,4.16,Bound In Ink,Kindle Edition,307.0,2024.0,,2025/04/21,2025/04/20,,,read,,,,1,0
+144,Book 144,Pierce Brown,"Brown, Pierce",,,,0,4.27,Del Rey,Hardcover,382.0,2014.0,2014.0,,2025/04/18,to-read,to-read (#9),to-read,,,,0,0
+145,Book 145,Aja Lace,"Lace, Aja",,,,2,3.68,"Luminous Lair, LLC",Kindle Edition,142.0,2025.0,,2025/04/18,2025/04/18,,,read,,,,1,0
+146,Book 146,Olivie Blake,"Blake, Olivie",,,,5,3.54,,Kindle Edition,376.0,2020.0,2020.0,2025/04/17,2025/03/07,,,read,,,,1,0
+147,Book 147,Rebecca Yarros,"Yarros, Rebecca",,,,5,4.36,Entangled: Red Tower Books,Hardcover,623.0,2023.0,2023.0,2025/04/14,2025/03/26,,,read,,,,1,0
+148,Book 148,Vikram Seth,"Seth, Vikram",,,,0,4.11,Harper Perennial Modern Classics,Paperback,1474.0,2005.0,1993.0,,2025/04/11,to-read,to-read (#8),to-read,,,,0,0
+149,Book 149,Chitra Banerjee Divakaruni,"Divakaruni, Chitra Banerjee",,,,0,4.2,Doubleday,Hardcover,360.0,2008.0,2008.0,,2025/04/11,to-read,to-read (#7),to-read,,,,0,0
+150,Book 150,Rebecca Yarros,"Yarros, Rebecca",,,,5,4.57,Entangled: Red Tower Books,Hardcover,517.0,2023.0,2023.0,2025/04/01,2025/01/15,,,read,,,,1,0
+151,Book 151,Caroline Criado Pérez,"Pérez, Caroline Criado",,,,0,4.34,Abrams Press,Hardcover,448.0,2019.0,2019.0,,2025/03/26,to-read,to-read (#6),to-read,,,,0,0
+152,Book 152,Lauren  Roberts,"Roberts, Lauren",,,,0,4.15,,Kindle Edition,526.0,2023.0,2023.0,,2025/03/26,to-read,to-read (#5),to-read,,,,0,0
+153,Book 153,Simon Beckett,"Beckett, Simon",,,,4,4.17,rororo,Paperback,414.0,2010.0,2009.0,2025/03/21,2025/03/17,,,read,,,,1,0
+154,Book 154,Simon Beckett,"Beckett, Simon",,,,4,4.21,Rowohlt,Paperback,432.0,2008.0,2007.0,2025/03/07,2025/03/06,,,read,,,,1,0
+155,Book 155,Deb Spera,"Spera, Deb",,,,5,4.22,Harper Collins,Hardcover,376.0,2018.0,2018.0,2025/03/05,2025/03/03,,,read,,,,1,0
+156,Book 156,Freida McFadden,"McFadden, Freida",,,,3,3.86,Sourcebooks,Paperback,387.0,2024.0,2024.0,2025/03/02,2025/03/01,,,read,,,,1,0
+157,Book 157,Chetan Bhagat,"Bhagat, Chetan",,,,4,3.07,Rupa & Co.,Paperback,258.0,2008.0,2008.0,2025/02/28,2025/02/25,,,read,,,,1,0
+158,Book 158,Kerstin Gier,"Gier, Kerstin",,,,0,4.21,Arena Verlag,Hardcover,487.0,2010.0,2010.0,,2025/02/26,,,read,,,,1,0
+159,Book 159,Kerstin Gier,"Gier, Kerstin",,,,0,4.19,Arena,Hardcover,400.0,2010.0,2010.0,,2025/02/26,,,read,,,,1,0
+160,Book 160,Kerstin Gier,"Gier, Kerstin",,,,0,4.14,Arena Verlag,Hardcover,345.0,2009.0,2009.0,,2025/02/26,,,read,,,,1,0
+161,Book 161,Isabel Abedi,"Abedi, Isabel",,,,0,3.87,Arena Verlag,Hardcover,275.0,2005.0,2005.0,,2025/02/26,,,read,,,,1,0
+162,Book 162,Isabel Abedi,"Abedi, Isabel",,,,0,3.81,Arena,Hardcover,553.0,2009.0,2009.0,,2025/02/26,,,read,,,,1,0
+163,Book 163,Ned Vizzini,"Vizzini, Ned",,,,0,4.07,Disney Hyperion,Paperback,444.0,2007.0,2006.0,,2025/02/26,,,read,,,,1,0
+164,Book 164,Freida McFadden,"McFadden, Freida",,,,4,3.3,Hollywood Upstairs Press,Kindle Edition,76.0,2024.0,2024.0,2025/02/26,2025/02/26,,,read,,,,1,0
+165,Book 165,Han Kang,"Kang, Han",Ki-Hyang Lee,,,3,4.27,Aufbau,Kindle Edition,224.0,2017.0,2014.0,2025/02/24,2025/02/23,,,read,,,,1,0
+166,Book 166,Erin Morgenstern,"Morgenstern, Erin",,,,4,4.0,Doubleday,Hardcover,506.0,2011.0,2011.0,,2025/02/23,,,read,,,,1,0
+167,Book 167,Simon Beckett,"Beckett, Simon",,,,4,4.18,Rowohlt Taschenbuchverlag,Paperback,431.0,2007.0,2006.0,2025/02/23,2025/01/12,,,read,,,,1,0
+168,Book 168,Stephenie Meyer,"Meyer, Stephenie",,,,5,3.75,Carlsen,Hardcover,848.0,2020.0,2020.0,2025/02/19,2025/02/01,,,read,,,,1,0
+169,Book 169,Suzanne Collins,"Collins, Suzanne",,,,0,4.5,Scholastic Press,Hardcover,387.0,2025.0,2025.0,,2025/02/12,to-read,to-read (#4),to-read,,,,0,0
+170,Book 170,Suzanne Collins,"Collins, Suzanne",,,,0,3.99,Scholastic Press,Kindle Edition,652.0,2020.0,2020.0,,2025/02/12,to-read,to-read (#3),to-read,,,,0,0
+171,Book 171,Han Kang,"Kang, Han",Ki-Hyang Lee,,,4,3.65,Aufbau Verlag,Kindle Edition,190.0,2016.0,2007.0,2025/02/11,2025/02/10,,,read,,,,1,0
+172,Book 172,Stephenie Meyer,"Meyer, Stephenie",Sylke Hachmeister,,,5,3.76,Carlsen,Hardcover,793.0,2009.0,2008.0,,2014/03/06,,,read,,,,2,0
+173,Book 173,Freida McFadden,"McFadden, Freida",,,,4,4.16,Bookouture,Kindle Edition,311.0,2023.0,2023.0,2025/02/05,2025/02/05,,,read,,,,1,0
+174,Book 174,Freida McFadden,"McFadden, Freida",,,,4,4.27,Bookouture,Kindle Edition,329.0,2022.0,2022.0,2025/02/03,2025/01/20,,,read,,,,1,0
+175,Book 175,Stephenie Meyer,"Meyer, Stephenie",,,,5,3.74,Carlsen,Hardcover,623.0,2008.0,2007.0,,2014/03/06,,,read,,,,2,0
+176,Book 176,Stephenie Meyer,"Meyer, Stephenie",Sylke Hachmeister,,,5,3.62,Carlsen,Hardcover,560.0,2007.0,2006.0,,2014/03/06,,,read,,,,2,0
+177,Book 177,Deborah Harkness,"Harkness, Deborah",,,,5,4.02,Headline Book Publishing,Paperback,688.0,2011.0,2011.0,2025/01/24,2025/01/13,,,read,,,,1,0
+178,Book 178,Michael Ende,"Ende, Michael",Ralph Manheim,,,3,4.18,Dutton Children's Books,Hardcover,396.0,1997.0,1979.0,,2025/01/20,,,read,,,,1,0
+179,Book 179,Renée Ahdieh,"Ahdieh, Renée",Martina M. Oepping,,,5,4.03,ONE,Kindle Edition,427.0,2017.0,2016.0,,2025/01/20,,,read,,,,1,0
+180,Book 180,Renée Ahdieh,"Ahdieh, Renée",Dietmar Schmidt,,,5,4.04,Bastei Lübbe (one by Lübbe),Hardcover,390.0,2016.0,2015.0,,2025/01/20,,,read,,,,1,0
+181,Book 181,Cornelia Funke,"Funke, Cornelia",,,,0,3.89,Dressler Verlag,Hardcover,352.0,2023.0,2023.0,,2025/01/20,to-read,to-read (#2),to-read,,,,0,0
+182,Book 182,Waris Dirie,"Dirie, Waris",Cathleen Miller,,,3,4.25,William Morrow Paperbacks,Paperback,256.0,1999.0,1998.0,,2025/01/15,,,read,,,,1,0
+183,Book 183,J.K. Rowling,"Rowling, J.K.","Jack Thorne, John Tiffany",,,1,3.47,"Little, Brown",Hardcover,343.0,2016.0,2016.0,,2025/01/15,,,read,,,,1,0
+184,Book 184,Alex Flinn,"Flinn, Alex",,,,0,3.82,HarperCollins,Hardcover,336.0,2007.0,2007.0,,2025/01/15,,,read,,,,1,0
+185,Book 185,Stephenie Meyer,"Meyer, Stephenie",Karsten Kredel,,,5,3.68,Carlsen,Paperback,528.0,2008.0,2005.0,2025/01/12,2014/03/06,,,read,,,,1,0
+186,Book 186,Werner Holzwart,"Holzwart, Werner",Wolf Erlbruch,,,5,4.25,Peter Hammer Verlag,Hardcover,24.0,2000.0,1989.0,,2014/03/06,,,read,,,,1,0
+187,Book 187,Gregory David Roberts,"Roberts, Gregory David",,,,4,4.28,Scribe,Paperback,936.0,2004.0,2003.0,,2025/01/12,,,read,,,,2,0
+188,Book 188,Jay Asher,"Asher, Jay",Knut Krüger,,,4,3.84,cbt,Hardcover,288.0,2009.0,2007.0,,2025/01/12,,,read,,,,1,0
+189,Book 189,John Green,"Green, John",Sophie Zeitz,,,4,4.12,Hanser Verlag,Hardcover,288.0,2012.0,2012.0,,2014/03/06,,,read,,,,1,0
+190,Book 190,John Green,"Green, John",Gázsity Mila,,,3,3.7,Speak,Paperback,305.0,2009.0,2008.0,,2025/01/12,,,read,,,,1,0
+191,Book 191,John Green,"Green, John",Sophie Zeitz,,,3,3.96,dtv,Paperback,304.0,2011.0,2005.0,,2025/01/12,,,read,,,,1,0
+192,Book 192,Kiera Cass,"Cass, Kiera",,,,4,3.62,HarperCollins,Hardcover,278.0,2016.0,2016.0,,2025/01/12,,,read,,,,1,0
+193,Book 193,Kiera Cass,"Cass, Kiera",,,,4,3.62,HarperTeen,Kindle Edition,342.0,2015.0,2015.0,,2025/01/12,,,read,,,,1,0
+194,Book 194,Kiera Cass,"Cass, Kiera",,,,4,4.14,HarperCollins,Hardcover,323.0,2014.0,2014.0,,2025/01/12,,,read,,,,1,0
+195,Book 195,Kiera Cass,"Cass, Kiera",,,,4,3.94,HarperCollins,Hardcover,336.0,2013.0,2013.0,,2025/01/12,,,read,,,,1,0
+196,Book 196,Kiera Cass,"Cass, Kiera",,,,4,4.07,HarperTeen,Hardcover,336.0,2012.0,2012.0,,2025/01/12,,,read,,,,1,0
+197,Book 197,L. Frank Baum,"Baum, L. Frank","Heike Vogel, Sybil Schönfeldt",,,4,4.0,Dressler,Gebundene Ausgabe,192.0,2003.0,1900.0,,2025/01/12,,,read,,,,1,0
+198,Book 198,Jonathan Swift,"Swift, Jonathan","J.J. Grandville, Franz Kottenkamp",,,3,3.54,Weinheim Basel Beltz und Gelberg,,264.0,2006.0,1726.0,,2025/01/12,,,read,,,,1,0
+199,Book 199,Aldous Huxley,"Huxley, Aldous",,,,2,3.98,HarperPerennial / Perennial Classics,Paperback,288.0,1998.0,1932.0,,2025/01/12,,,read,,,,1,0
+200,Book 200,Ray Bradbury,"Bradbury, Ray",,,,3,3.97,Simon & Schuster,Mass Market Paperback,249.0,2011.0,1953.0,,2025/01/12,,,read,,,,1,0
+201,Book 201,Robert Louis Stevenson,"Stevenson, Robert Louis",,,,4,3.85,Carlsen,Paperback,128.0,1986.0,1882.0,,2025/01/12,,,read,,,,1,0
+202,Book 202,Daniel Defoe,"Defoe, Daniel",Virginia Woolf,,,5,3.68,Modern Library,Hardcover,320.0,2001.0,1719.0,,2025/01/12,,,read,,,,1,0
+203,Book 203,Bret Easton Ellis,"Ellis, Bret Easton",,,,4,3.8,Vintage Contemporaries,Paperback,399.0,1991.0,1991.0,,2025/01/12,,,read,,,,1,0
+204,Book 204,Karsten Dusse,"Dusse, Karsten",,,,0,4.04,Heyne Verlag ,Paperback,415.0,2019.0,2019.0,,2025/01/12,to-read,to-read (#1),to-read,,,,0,0
+205,Book 205,Rick Riordan,"Riordan, Rick",Gabriele Haefs,,,3,4.24,Carlsen,Hardcover,336.0,2010.0,2006.0,,2025/01/12,,,read,,,,1,0
+206,Book 206,Rick Riordan,"Riordan, Rick",Gabriele Haefs,,,3,4.31,Carlsen,Hardcover,448.0,2010.0,2005.0,,2025/01/12,,,read,,,,1,0
+207,Book 207,Rick Riordan,"Riordan, Rick",,,,3,4.42,Carlsen Verlag GmbH,Kindle Edition,432.0,2011.0,2008.0,,2025/01/12,,,read,,,,1,0
+208,Book 208,Rick Riordan,"Riordan, Rick",,,,3,4.55,Carlsen,Kindle Edition,464.0,2011.0,2009.0,,2025/01/12,,,read,,,,1,0
+209,Book 209,Rick Riordan,"Riordan, Rick",,,,3,4.37,Carlsen Verlag GmbH,Kindle Edition,368.0,2010.0,2007.0,,2025/01/12,,,read,,,,1,0
+210,Book 210,Ransom Riggs,"Riggs, Ransom",Silvia Kinkel,,,4,3.92,PAN,Hardcover,416.0,2011.0,2011.0,,2025/01/12,,,read,,,,1,0
+211,Book 211,Thea Dorn,"Dorn, Thea",,,,5,3.35,Albrecht Knaus Verlag,Hardcover,560.0,2016.0,2016.0,,2025/01/12,,,read,,,,1,0
+212,Book 212,Andy Weir,"Weir, Andy",Jürgen Langowski,,,5,4.42,Heyne Taschenbuch ,Paperback,512.0,2014.0,2011.0,,2025/01/12,,,read,,,,1,0
+213,Book 213,Emma Donoghue,"Donoghue, Emma",,,,5,4.08,"Little, Brown and Company",Kindle Edition,321.0,2010.0,2010.0,,2025/01/12,,,read,,,,1,0
+214,Book 214,David Levithan,"Levithan, David",Martina Tichy,,,3,3.89,Fischer Jugendbuch,Hardcover,400.0,2014.0,2012.0,,2025/01/12,,,read,,,,1,0
+215,Book 215,Arun Gandhi,"Gandhi, Arun",,,,5,4.16,Audio Verlag Der GmbH,Audio CD,0.0,2017.0,2017.0,,2025/01/12,,,read,,,,1,0
+216,Book 216,Florence Given,"Given, Florence",,,,2,3.69,Cassell,Kindle Edition,193.0,2020.0,2020.0,,2025/01/12,,,read,,,,1,0
+217,Book 217,Laetitia Colombani,"Colombani, Laetitia",Claudia Marquardt,,,4,4.01,S. Fischer,Hardcover,288.0,2018.0,2017.0,,2025/01/12,,,read,,,,1,0
+218,Book 218,Poppy Lamour,"Lamour, Poppy",,,,3,3.88,Briefgestöber,Kindle Edition,186.0,2021.0,,,2025/01/12,,,read,,,,1,0
+219,Book 219,Aravind Adiga,"Adiga, Aravind",Ingo Herzke,,,5,3.77,Deutscher Taschenbuch Verlag,Paperback,320.0,2010.0,2008.0,,2025/01/12,,,read,,,,1,0
+220,Book 220,Michael Ende,"Ende, Michael",,,,4,4.34,Thienemann,Paperback,304.0,1998.0,1973.0,,2025/01/12,,,read,,,,1,0
+221,Book 221,George R.R. Martin,"Martin, George R.R.",,,,4,4.43,Blanvalet,Paperback,798.0,2012.0,2011.0,,2025/01/12,,,read,,,,1,0
+222,Book 222,George R.R. Martin,"Martin, George R.R.",,,,4,4.34,Penhaligon,Paperback,830.0,2012.0,2011.0,,2025/01/12,,,read,,,,1,0
+223,Book 223,George R.R. Martin,"Martin, George R.R.",,,,4,4.26,Blanvalet,Paperback,608.0,2012.0,2005.0,,2025/01/12,,,read,,,,1,0
+224,Book 224,George R.R. Martin,"Martin, George R.R.",Andreas Hlweg,,,4,4.17,Blanvalet,Paperback,576.0,2012.0,2005.0,,2025/01/12,,,read,,,,1,0
+225,Book 225,George R.R. Martin,"Martin, George R.R.",Andreas Helweg,,,4,4.55,Blanvalet,Paperback,832.0,2011.0,2000.0,,2025/01/12,,,read,,,,1,0
+226,Book 226,George R.R. Martin,"Martin, George R.R.",Andreas Helweg,,,4,4.47,Blanvalet,Paperback,768.0,2011.0,2000.0,,2025/01/12,,,read,,,,1,0
+227,Book 227,George R.R. Martin,"Martin, George R.R.",Andreas Helweg,,,4,4.39,Blanvalet,Paperback,672.0,2011.0,1998.0,,2025/01/12,,,read,,,,1,0
+228,Book 228,George R.R. Martin,"Martin, George R.R.",Andreas Helweg,,,4,4.36,Blanvalet,Paperback,574.0,2011.0,2000.0,,2025/01/12,,,read,,,,1,0
+229,Book 229,George R.R. Martin,"Martin, George R.R.",Jörn Ingwersen,,,4,4.46,Blanvalet,Paperback,544.0,2011.0,1996.0,,2025/01/12,,,read,,,,1,0
+230,Book 230,George R.R. Martin,"Martin, George R.R.",Jörn Ingwersen,,,5,4.27,Blanvalet,Paperback,545.0,2010.0,1996.0,,2025/01/12,,,read,,,,1,0
+231,Book 231,Diana Gabaldon,"Gabaldon, Diana",Barbara Schnell,,,5,4.55,Blanvalet,Hardcover,982.0,2014.0,2014.0,,2025/01/12,,,read,,,,1,0
+232,Book 232,Diana Gabaldon,"Gabaldon, Diana",,,,5,4.45,Droemer Knaur,Hardcover,1152.0,2021.0,2021.0,,2025/01/12,,,read,,,,1,0
+233,Book 233,Diana Gabaldon,"Gabaldon, Diana",Barbara Schnell,,,0,4.44,Blanvalet,Hardcover,1024.0,2009.0,2009.0,,2025/01/12,,,read,,,,1,0
+234,Book 234,Diana Gabaldon,"Gabaldon, Diana",Barbara Schnell,,,5,4.44,Blanvalet,Paperback,1298.0,2007.0,2005.0,,2025/01/12,,,read,,,,1,0
+235,Book 235,Diana Gabaldon,"Gabaldon, Diana",,,,5,4.26,Blanvalet,Paperback,1356.0,2004.0,2001.0,,2025/01/12,,,read,,,,1,0
+236,Book 236,Diana Gabaldon,"Gabaldon, Diana",,,,5,4.36,Blanvalet,Paperback,1196.0,2000.0,1996.0,,2025/01/12,,,read,,,,1,0
+237,Book 237,Diana Gabaldon,"Gabaldon, Diana","Petra Hrabak, Sonja Schuhmacher, Barbara Steckham",,,5,4.39,Blanvalet,Paperback,1076.0,1999.0,1993.0,,2025/01/12,,,read,,,,1,0
+238,Book 238,Frank Schätzing,"Schätzing, Frank",,,,5,4.1,Fischer Taschenbuch Verlag,Paperback,987.0,2005.0,2004.0,,2025/01/12,,,read,,,,1,0
+239,Book 239,Mark Benecke,"Benecke, Mark",Lydia Benecke,,,5,3.97,Lübbe,Paperback,432.0,2011.0,2011.0,,2025/01/12,,,read,,,,1,0
+240,Book 240,Diana Gabaldon,"Gabaldon, Diana",,,,5,4.34,Bantam,Paperback,947.0,2001.0,1992.0,2016/01/12,2015/11/12,,,read,,,,1,0
+241,Book 241,Margaret Atwood,"Atwood, Margaret",,,,3,4.15,Houghton Mifflin Harcourt,Hardcover,320.0,2017.0,1985.0,2025/01/05,2025/01/12,,,read,,,,1,0
+242,Book 242,H. Bodden,"Bodden, H.",,,,0,3.94,Klett Sprachen,Unknown Binding,71.0,2009.0,2009.0,,2014/03/06,,,read,,,,1,0
+243,Book 243,Emily Brontë,"Brontë, Emily",Michaela Meßner,,,5,3.9,Carlsen,Paperback,512.0,2010.0,1847.0,,2014/03/06,,,read,,,,1,0
+244,Book 244,Phillip P. Peterson,"Peterson, Phillip P.",,,,4,4.09,,Kindle Edition,451.0,2015.0,2015.0,2015/10/01,2015/11/02,,,read,,,,1,0
+245,Book 245,Anne Girard,"Girard, Anne",Yasemin Dinçer,,,5,3.96,Aufbau Taschenbuch Verlag,Kindle Edition,464.0,2015.0,2014.0,2015/03/18,2015/03/28,,,read,,,,1,0
+246,Book 246,Lewis Carroll,"Carroll, Lewis",,,,3,3.99,Anaconda,Hardcover,159.0,2011.0,1865.0,,2014/03/06,,,read,,,,1,0
+247,Book 247,J.K. Rowling,"Rowling, J.K.",Klaus Fritz,,,5,4.03,Carlsen,Hardcover,110.0,2008.0,2008.0,,2014/03/06,,,read,,,,1,0
+248,Book 248,J.K. Rowling,"Rowling, J.K.",Klaus Fritz,,,5,4.58,Carlsen Verlag,Hardcover,448.0,1999.0,1999.0,,2014/03/06,,,read,,,,1,0
+249,Book 249,J.K. Rowling,"Rowling, J.K.",Klaus Fritz,,,5,4.58,Carlsen Verlag,Hardcover,656.0,2005.0,2005.0,,2014/03/06,,,read,,,,1,0
+250,Book 250,J.K. Rowling,"Rowling, J.K.",Klaus Fritz,,,5,4.5,Carlsen,Hardcover,1021.0,2003.0,2003.0,,2014/03/06,,,read,,,,1,0
+251,Book 251,Jane Austen,"Austen, Jane",,,,5,4.59,"Anaconda Verlag GmbH, Köln",Hardcover,2608.0,2011.0,1950.0,,2014/03/06,,,read,,,,1,0
+252,Book 252,J.K. Rowling,"Rowling, J.K.",,,,5,4.47,Bloomsbury Publishing,Paperback,223.0,1997.0,1997.0,,2014/03/06,,,read,,,,1,0
+253,Book 253,J.K. Rowling,"Rowling, J.K.",,,,5,4.58,Bloomsbury Publishing,Paperback,468.0,1999.0,1999.0,2015/03/29,2015/03/28,,,read,,,,1,0
+254,Book 254,William Shakespeare,"Shakespeare, William",,,,0,3.89,Deutscher Taschenbuch Verlag,Paperback,273.0,1995.0,1623.0,,2014/03/06,,,read,,,,1,0
+255,Book 255,Maria V. Snyder,"Snyder, Maria V.",,,,4,4.03,Luna,Hardcover,392.0,2006.0,2006.0,2015/10/01,2015/11/02,,,read,,,,1,0
+256,Book 256,Maria V. Snyder,"Snyder, Maria V.",,,,5,4.09,Mira,Paperback,427.0,2007.0,2005.0,2015/10/01,2015/11/02,,,read,,,,1,0
+257,Book 257,Victoria Aveyard,"Aveyard, Victoria",,,,5,3.98,Orion,Hardcover,383.0,2015.0,2015.0,2015/09/01,2015/11/02,,,read,,,,1,0
+258,Book 258,Jodi Picoult,"Picoult, Jodi",Samantha van Leer,,,3,3.57,Simon Pulse,Hardcover,385.0,2012.0,2012.0,2015/08/01,2015/11/02,,,read,,,,1,0
+259,Book 259,James Dashner,"Dashner, James",,,,3,3.78,Delacorte Books for Young Readers,Hardcover,325.0,2011.0,2011.0,2015/09/01,2015/11/02,,,read,,,,1,0
+260,Book 260,James Dashner,"Dashner, James",,,,3,3.89,Delacorte Press,Hardcover,362.0,2010.0,2010.0,2015/09/01,2015/11/02,,,read,,,,1,0
+261,Book 261,James Dashner,"Dashner, James",,,,4,4.06,Delacorte Press,Hardcover,384.0,2009.0,2009.0,2015/08/01,2015/11/02,,,read,,,,1,0
+262,Book 262,Markus Zusak,"Zusak, Markus",,,,4,4.39,Alfred A. Knopf,Kindle Edition,592.0,2006.0,2005.0,2015/07/01,2015/11/02,,,read,,,,1,0
+263,Book 263,Audrey Niffenegger,"Niffenegger, Audrey",,,,3,4.0,Zola Books,ebook,537.0,2013.0,2003.0,2015/07/01,2015/11/02,,,read,,,,1,0
+264,Book 264,Jodi Picoult,"Picoult, Jodi","Ulrike Wasel, Klaus Timmermann",,,2,4.11,Piper Verlag,Paperback,480.0,2006.0,2004.0,2015/06/01,2015/11/02,,,read,,,,1,0
+265,Book 265,Kristin Cashore,"Cashore, Kristin",Katharina Diestelmeier,,,5,4.09,Carlsen,Hardcover,510.0,2011.0,2009.0,,2014/03/06,,,read,,,,1,0
+266,Book 266,Sherman Alexie,"Alexie, Sherman",Ellen Forney,,,0,4.05,Klett Ernst /Schulbuch,Paperback,236.0,2009.0,2007.0,,2014/03/06,,,read,,,,1,0
+267,Book 267,Ally Condie,"Condie, Ally",Stefanie Schäfer,,,4,3.52,Fischer FJB,Hardcover,458.0,2012.0,2011.0,,2014/03/06,,,read,,,,1,0
+268,Book 268,Ally Condie,"Condie, Ally",Stefanie Schäfer,,,4,3.54,Fischer Fjb,Hardcover,608.0,2013.0,2012.0,,2014/03/06,,,read,,,,1,0
+269,Book 269,Diana Gabaldon,"Gabaldon, Diana",,,,0,4.26,Wilhelm Goldmann Verlag GmbH,Paperback,800.0,1997.0,1991.0,2015/06/16,2015/05/02,,,read,,,,1,0
+270,Book 270,J.K. Rowling,"Rowling, J.K.",Klaus Fritz,,,5,4.47,Carlsen Verlag,Hardcover,335.0,1998.0,1997.0,,2014/03/06,,,read,,,,1,0
+271,Book 271,J.K. Rowling,"Rowling, J.K.","Susanne Aeckerle, Marion Balkenhol",,,3,3.31,Carlsen,Hardcover,576.0,2012.0,2012.0,2015/04/14,2015/03/28,,,read,,,,1,0
+272,Book 272,Veronica Roth,"Roth, Veronica",,,,4,3.6,HarperCollins Children's Book's,Hardcover,531.0,2013.0,2013.0,2015/04/08,2015/04/09,,,read,,,,1,0
+273,Book 273,Veronica Roth,"Roth, Veronica",,,,4,3.96,HarperCollins Children's Books,Hardcover,525.0,2012.0,2012.0,2015/04/03,2015/04/09,,,read,,,,1,0
+274,Book 274,Veronica Roth,"Roth, Veronica",,,,5,4.13,Katherine Tegen Books,Paperback,487.0,2012.0,2011.0,2015/03/27,2015/03/29,,,read,,,,1,0
+275,Book 275,J.K. Rowling,"Rowling, J.K.",Kennilworthy Whisp,,,4,3.79,Scholastic,Hardcover,105.0,2001.0,2001.0,2015/03/08,2015/03/28,,,read,,,,1,0
+276,Book 276,Victor Hugo,"Hugo, Victor",,,,4,4.21,Anaconda,Hardcover,1344.0,2013.0,1862.0,2015/01/28,2014/03/06,,,read,,,,1,0
+277,Book 277,Kai Meyer,"Meyer, Kai",,,,4,3.86,Fischer FJB,Hardcover,556.0,2014.0,2014.0,2015/02/03,2015/03/28,,,read,,,,1,0
+278,Book 278,James Frey,"Frey, James",Nils Johnson-Shelton,,,5,3.72,HarperTeen,Hardcover,461.0,2014.0,2014.0,2015/02/23,2015/03/28,,,read,,,,1,0
+279,Book 279,Stephen  King,"King, Stephen",Harro Christensen,,,5,4.28,Bastei Lübbe,Paperback,624.0,1985.0,1977.0,2015/03/10,2015/03/28,,,read,,,,1,0
+280,Book 280,Newt Scamander,"Scamander, Newt",J.K. Rowling,,,3,3.95,"Obscurous Books, Arthur A. Levine Books",Hardcover,128.0,2001.0,2001.0,,2015/03/28,,,read,,,,1,0
+281,Book 281,J.K. Rowling,"Rowling, J.K.",Klaus Fritz,,,5,4.43,Carlsen Verlag,Hardcover,352.0,1999.0,1998.0,,2014/03/06,,,read,,,,1,0
+282,Book 282,J.K. Rowling,"Rowling, J.K.",Klaus Fritz,,,5,4.62,Carlsen Verlag,Hardcover,767.0,2007.0,2007.0,,2014/03/06,,,read,,,,1,0
+283,Book 283,J.K. Rowling,"Rowling, J.K.",Klaus Fritz,,,5,4.57,Carlsen,Hardcover,767.0,2000.0,2000.0,,2014/03/06,,,read,,,,1,0
+284,Book 284,Oscar Wilde,"Wilde, Oscar",,,,5,4.14,Anaconda Verlag GmbH,Hardcover,288.0,2012.0,1890.0,,2014/03/06,,,read,,,,1,0
+285,Book 285,Scott Westerfeld,"Westerfeld, Scott",,,,5,3.84,Carlsen,Paperback,432.0,2011.0,2005.0,,2014/03/06,,,read,,,,1,0
+286,Book 286,Victor Hugo,"Hugo, Victor",,,,4,4.02,Anaconda Verlag,Hardcover,446.0,2010.0,1831.0,,2014/03/06,,,read,,,,1,0
+287,Book 287,Charles Dickens,"Dickens, Charles",,,,4,3.88,Anaconda,Hardcover,415.0,2012.0,1838.0,,2014/03/06,,,read,,,,1,0
+288,Book 288,Ian Ogilvy,"Ogilvy, Ian",,,,4,4.16,Ravensburger Buchverlag,Hardcover,346.0,2008.0,2007.0,,2014/03/06,,,read,,,,1,0
+289,Book 289,Ian Ogilvy,"Ogilvy, Ian",,,,4,4.24,Ravensburger Buchverlag,Hardcover,397.0,2007.0,2007.0,,2014/03/06,,,read,,,,1,0
+290,Book 290,Ian Ogilvy,"Ogilvy, Ian",,,,4,4.13,Ravensburger Buchverlag,Hardcover,398.0,2007.0,2005.0,,2014/03/06,,,read,,,,1,0
+291,Book 291,Kristin Cashore,"Cashore, Kristin","Ian Schoenherr, Katharina Diestelmeier",,,5,4.0,Carlsen,Hardcover,567.0,2012.0,2012.0,,2014/03/06,,,read,,,,1,0
+292,Book 292,Ian Ogilvy,"Ogilvy, Ian",,,,4,3.97,Ravensburger Buchverlag,Hardcover,368.0,2006.0,2004.0,,2014/03/06,,,read,,,,1,0
+293,Book 293,Ally Condie,"Condie, Ally",Stefanie Schäfer,,,4,3.62,Fischer FJB,Hardcover,456.0,2011.0,2010.0,,2014/03/06,,,read,,,,1,0
+294,Book 294,Suzanne Collins,"Collins, Suzanne","Hanna Hörl, Sylke Hachmeister, Peter Klöss",,,5,4.12,Oetinger,Hardcover,431.0,2011.0,2010.0,,2014/03/06,,,read,,,,1,0
+295,Book 295,Scott Westerfeld,"Westerfeld, Scott",,,,5,3.83,Carlsen,Paperback,400.0,2011.0,2005.0,,2014/03/06,,,read,,,,1,0
+296,Book 296,Scott Westerfeld,"Westerfeld, Scott",,,,5,3.75,Carlsen,Paperback,381.0,2011.0,2006.0,,2014/03/06,,,read,,,,1,0
+297,Book 297,Alyson Noel,"Noel, Alyson",Marie-Luise Bezzenberger,,,3,3.66,Page & Turner,Paperback,416.0,2010.0,2009.0,,2014/03/06,,,read,,,,1,0
+298,Book 298,Stephenie Meyer,"Meyer, Stephenie",Katharina Diestelmeier,,,3,3.52,Carlsen,Hardcover,205.0,2010.0,2009.0,,2014/03/06,,,read,,,,1,0
+299,Book 299,Suzanne Collins,"Collins, Suzanne","Sylke Hachmeister, Peter Klöss",,,5,4.36,Oetinger,Hardcover,431.0,2010.0,2009.0,,2014/03/06,,,read,,,,1,0
+300,Book 300,Kai Meyer,"Meyer, Kai",,,,4,3.79,Bastei Lübbe,Paperback,432.0,2010.0,2008.0,,2014/03/06,,,read,,,,1,0
+301,Book 301,Kristin Cashore,"Cashore, Kristin",Irmela Brender,,,5,4.06,Carlsen Verlag,Hardcover,494.0,2009.0,2008.0,,2014/03/06,,,read,,,,1,0
+302,Book 302,Suzanne Collins,"Collins, Suzanne","Sylke Hachmeister, Peter Klöss, Hauptmann Kompanie",,,5,4.35,Oetinger,Hardcover,416.0,2009.0,2008.0,,2014/03/06,,,read,,,,1,0
+303,Book 303,Monika Feth,"Feth, Monika",,,,4,3.83,Cbt ,Paperback,414.0,2009.0,2009.0,,2014/03/06,,,read,,,,1,0
+304,Book 304,Michelle  Harrison,"Harrison, Michelle","Martin Baresch, Maria-Franziska Löhr",,,3,4.06,Loewe Verlag,Hardcover,366.0,2009.0,2009.0,,2014/03/06,,,read,,,,1,0
+305,Book 305,Stephenie Meyer,"Meyer, Stephenie",,,,4,3.86,Carlsen,Hardcover,862.0,2008.0,2008.0,,2014/03/06,,,read,,,,1,0
+306,Book 306,Krystyna Kuhn,"Kuhn, Krystyna",,,,3,3.44,Arena,Paperback,200.0,2007.0,2007.0,,2014/03/06,,,read,,,,1,0
+307,Book 307,Charlotte Brontë,"Brontë, Charlotte","Marie von Borch, Martin Engelmann",,,4,4.16,Anaconda Verlag,Hardcover,640.0,2008.0,1847.0,,2014/03/06,,,read,,,,1,0
+308,Book 308,Otfried Preußler,"Preußler, Otfried",,,,4,3.91,Deutscher Taschenbuch Verlag,Paperback,314.0,2008.0,1971.0,,2014/03/06,,,read,,,,1,0
+309,Book 309,Ian Ogilvy,"Ogilvy, Ian",Cornelia Krutz-Arnold,,,4,4.03,Ravensburger Buchverlag,Hardcover,223.0,2007.0,2004.0,,2014/03/06,,,read,,,,1,0
+310,Book 310,J.D. Salinger,"Salinger, J.D.",,,,2,3.8,Rowohlt Tb.,Paperback,270.0,2004.0,1951.0,,2014/03/06,,,read,,,,1,0
+311,Book 311,Monika Feth,"Feth, Monika",,,,4,3.84,cbt,Paperback,383.0,2005.0,2005.0,,2014/03/06,,,read,,,,1,0
+312,Book 312,Monika Feth,"Feth, Monika",,,,4,3.59,cbt,Paperback,351.0,2003.0,2003.0,,2014/03/06,,,read,,,,1,0
+313,Book 313,Monika Feth,"Feth, Monika",,,,4,3.94,cbt,Paperback,383.0,2007.0,,,2014/03/06,,,read,,,,1,0
+314,Book 314,Kai Hermann,"Hermann, Kai",,,,5,3.54,Ullstein Tb,Paperback,,2002.0,2001.0,,2014/03/06,,,read,,,,1,0
+315,Book 315,Marilyn Manson,"Manson, Marilyn",Neil Strauss,,,4,3.81,Hannibal Verlag,Hardcover,355.0,2007.0,1998.0,,2014/03/06,,,read,,,,1,0
+316,Book 316,Cornelia Funke,"Funke, Cornelia",,,,5,3.98,Cecilie Dressler Verlag,Hardcover,761.0,2007.0,2007.0,,2014/03/06,,,read,,,,1,0
+317,Book 317,E.T.A. Hoffmann,"Hoffmann, E.T.A.",,,,1,3.29,Deutscher Taschenbuch Verlag,Paperback,127.0,1998.0,1819.0,,2014/03/06,,,read,,,,1,0
+318,Book 318,Roald Dahl,"Dahl, Roald",Quentin Blake,,,3,4.17,Rowohlt,Paperback,160.0,2003.0,1964.0,,2014/03/06,,,read,,,,1,0
+319,Book 319,Michael Ende,"Ende, Michael",,,,3,4.18,Thienemann Verlag GmbH,Hardcover,475.0,2004.0,1979.0,,2014/03/06,,,read,,,,1,0
+320,Book 320,Gotthold Ephraim Lessing,"Lessing, Gotthold Ephraim",Peter von Düffel,,,3,3.31,Stuttgart: Philipp Reclam jun. Verlag GmbH,Paperback,160.0,1993.0,1779.0,,2014/03/06,,,read,,,,1,0
+321,Book 321,William Shakespeare,"Shakespeare, William",,,,4,3.74,Deutscher Taschenbuch Verlag,Paperback,294.0,1998.0,1590.0,,2014/03/06,,,read,,,,1,0
+322,Book 322,Christiane V. Felscherinow,"Felscherinow, Christiane V.","Kai Hermann, Horst Rieck, Horst E. Richter",,,3,4.37,Gruner und Jahr,Paperback,333.0,1979.0,1978.0,,2014/03/06,,,read,,,,1,0
+323,Book 323,John Steinbeck,"Steinbeck, John",,,,3,3.9,Reclam,Paperback,171.0,1989.0,1937.0,,2014/03/06,,,read,,,,1,0
+324,Book 324,Thomas Brussig,"Brussig, Thomas",,,,2,3.44,Fischer,Paperback,157.0,2001.0,1999.0,,2014/03/06,,,read,,,,1,0
+325,Book 325,George Orwell,"Orwell, George",,,,4,4.2,Ullstein,Paperback,375.0,1994.0,1948.0,,2014/03/06,,,read,,,,1,0
+326,Book 326,Cornelia Funke,"Funke, Cornelia",,,,5,3.95,Cecilie Dressler Verlag,Hardcover,736.0,2005.0,2005.0,,2014/03/06,,,read,,,,1,0
+327,Book 327,Cornelia Funke,"Funke, Cornelia",,,,5,3.93,Cecilie Dressler Verlag,Hardcover,564.0,2003.0,2003.0,,2014/03/06,,,read,,,,1,0
+328,Book 328,Stephen  King,"King, Stephen",Wulf H. Bergner,,,3,3.64,Ullstein Tb,Paperback,304.0,2001.0,1999.0,,2014/03/06,,,read,,,,1,0
+329,Book 329,William Golding,"Golding, William",Dieter Smolka,,,3,3.7,Diesterweg Moritz,Paperback,207.0,2011.0,1954.0,,2014/03/06,,,read,,,,1,0
+330,Book 330,Dr. Seuss,"Seuss, Dr.",,,,3,4.02,Random House Books for Young Readers,Hardcover,56.0,1989.0,1938.0,,2014/03/06,,,read,,,,1,0
+331,Book 331,Patrick Süskind,"Süskind, Patrick",,,,5,4.04,Diogenes,Paperback,320.0,1994.0,1985.0,,2014/03/06,,,read,,,,1,0
+332,Book 332,L.J. Smith,"Smith, L.J.",Michaela Link,,,0,3.74,cbt,Paperback,608.0,2010.0,2010.0,,2014/03/06,,,read,,,,1,0
+333,Book 333,L.J. Smith,"Smith, L.J.",Ingrid Gross,,,0,3.49,cbt Fantasy,Paperback,272.0,2008.0,1991.0,,2014/03/06,,,read,,,,1,0
+334,Book 334,L.J. Smith,"Smith, L.J.",Ingrid Gross,,,0,3.5,cbt Fantasy,Paperback,256.0,2008.0,1991.0,,2014/03/06,,,read,,,,1,0
+335,Book 335,Robert Swindells,"Swindells, Robert",,,,0,3.26,Puffin Teenage Fiction,Paperback,,2009.0,1993.0,,2014/03/06,,,read,,,,1,0
+336,Book 336,L.J. Smith,"Smith, L.J.",Michaela Link,,,0,3.55,cbt Fantasy,Paperback,608.0,2010.0,2009.0,,2014/03/06,,,read,,,,1,0
+337,Book 337,L.J. Smith,"Smith, L.J.",Ingrid Gross,,,0,3.44,cbt,Paperback,256.0,2008.0,1991.0,,2014/03/06,,,read,,,,1,0
+338,Book 338,Michelle  Harrison,"Harrison, Michelle",Martin Baresch,,,0,4.24,Loewe Verlag,Hardcover,542.0,2010.0,2010.0,,2014/03/06,,,read,,,,1,0
+339,Book 339,Inge Löhnig,"Löhnig, Inge",,,,0,3.65,Arena,Paperback,0.0,2010.0,2010.0,,2014/03/06,,,read,,,,1,0
+340,Book 340,Hilmar Bender,"Bender, Hilmar",,,,0,2.67,Ubooks,Paperback,304.0,2011.0,2011.0,,2014/03/06,,,read,,,,1,0
+341,Book 341,L.J. Smith,"Smith, L.J.","Ingrid Gross, Lisa J. Smith, Kerstin Windisch",,,0,3.32,cbt Fantasy,Paperback,256.0,2008.0,1991.0,,2014/03/06,,,read,,,,1,0

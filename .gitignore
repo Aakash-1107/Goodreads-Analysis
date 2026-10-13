@@ -1,2 +1,4 @@
 *.csv
 .venv/
+!Data/sample_goodreads_library.csv
+.ipynb_checkpoints/
