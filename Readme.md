@@ -54,7 +54,7 @@ The charts below are generated from the anonymized sample, which keeps the origi
 ![Rating Comparison](Charts/Publisher_Distribution.png)
 
 ###  Rating vs Average Rating
-![ View Interactive Version](Charts/Rating_vs_Avg.html)
+[View interactive version](https://aakash-1107.github.io/Goodreads-Analysis/Charts/Rating_vs_Avg.html)
 
 ###  Top Authors
 ![Top Authors](Charts/Top_Authors_Distribution.png)

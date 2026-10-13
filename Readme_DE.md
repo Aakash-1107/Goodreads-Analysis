@@ -52,7 +52,7 @@ Die folgenden Diagramme basieren auf den anonymisierten Beispieldaten, die die u
 ![Verlagsverteilung](Charts/Publisher_Distribution.png)
 
 ###  Bewertung vs. Durchschnittsbewertung
-[ Interaktive Version anzeigen](Charts/Rating_vs_Avg.html)
+[Interaktive Version anzeigen](https://aakash-1107.github.io/Goodreads-Analysis/Charts/Rating_vs_Avg.html)
 
 ###  Top-Autoren
 ![Top-Autoren](Charts/Top_Authors_Distribution.png)
